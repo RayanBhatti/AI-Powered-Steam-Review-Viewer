@@ -2,6 +2,8 @@
 
 A sleek, modern web app that fetches Steam game reviews and summarizes them using AI — powered by Google Gemini. Perfect for gamers, journalists, and developers who value quick decision insights.
 
+## [Live Demo →](https://ai-powered-steam-review-viewer.vercel.app/)
+
 ![Reviewizer screenshot](/github/reviewizer.png)
 
 ---
