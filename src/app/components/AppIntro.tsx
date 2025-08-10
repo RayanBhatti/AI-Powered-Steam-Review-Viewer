@@ -16,7 +16,7 @@ const AppIntro = () => {
           get an AI summary of their reviews!
         </p>
         <a
-          href=""
+          href="https://github.com/RayanBhatti/AI-Powered-Steam-Review-Viewer"
           className="flex gap-1 text-sm items-center mt-2 text-neutral-400 hover:text-neutral-300"
           target="_blank"
           rel="noreferrer"
